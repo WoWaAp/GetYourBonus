@@ -1,1 +1,12 @@
-test
+[
+   {
+      "title":"Titel",
+      "shortDescrpt":"Kurze Beschreibung",
+      "longDescrpt":"Lange Beschreibung",
+      "picLink":"",
+      "bonusLink":"",
+      "valid":"22.2",
+      "saving":"20%",
+      "likes":"500❤"
+   }
+]
