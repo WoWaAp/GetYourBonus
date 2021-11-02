@@ -1,4 +1,4 @@
-
+[
    {
       "title":"Titel",
       "shortDescrpt":"Kurze Beschreibung",
@@ -8,5 +8,16 @@
       "valid":"22.2",
       "saving":"20%",
       "likes":"500❤"
+   },
+   {
+      "title":"Titel2",
+      "shortDescrpt":"Kurze Beschreibung",
+      "longDescrpt":"Lange Beschreibung",
+      "picLink":"",
+      "bonusLink":"",
+      "valid":"22.2",
+      "saving":"20%",
+      "likes":"500❤"
    }
 
+]
